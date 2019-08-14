@@ -1,2 +1,2 @@
 # Space-facts
-A basic Alexa fact ski
+A basic Alexa fact skill
