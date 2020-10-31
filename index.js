@@ -7,6 +7,11 @@ const data = [
       'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
       'On Mars, the Sun appears about half the size as it does on Earth.',
       'The Sun is an almost perfect sphere.',
+      'The hottest planet in our solar system is 450° C.',
+      'There may be life on Mars.',
+      'Nobody knows how many stars are in space.'
+      'Halleys Comet won’t orbit past Earth again until 2061.',
+      'A full NASA space suit costs $12,000,000.'
 ];
 
 const GET_FACT_MESSAGE = "This is your Fact " ;
